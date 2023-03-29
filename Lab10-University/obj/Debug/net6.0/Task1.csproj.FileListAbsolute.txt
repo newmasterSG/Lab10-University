@@ -1,0 +1,15 @@
+E:\NewVSCODE\Lab10-University\Lab10-University\bin\Debug\net6.0\Task1.exe
+E:\NewVSCODE\Lab10-University\Lab10-University\bin\Debug\net6.0\Task1.deps.json
+E:\NewVSCODE\Lab10-University\Lab10-University\bin\Debug\net6.0\Task1.runtimeconfig.json
+E:\NewVSCODE\Lab10-University\Lab10-University\bin\Debug\net6.0\Task1.dll
+E:\NewVSCODE\Lab10-University\Lab10-University\bin\Debug\net6.0\Task1.pdb
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\Task1.dll
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\refint\Task1.dll
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\Task1.pdb
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+E:\NewVSCODE\Lab10-University\Lab10-University\obj\Debug\net6.0\ref\Task1.dll
